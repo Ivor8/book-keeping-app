@@ -1,0 +1,15 @@
+we start by initializing npm in our book kepping app directory "npm init
+" this simply means initialize your projects as  npm. this command will then walk you through a couple of steps in order to set up you app
+a package.json file is then created, which manages all the packages we will use in our project
+
+now, we are going to make use of express to create our server
+we install express by running npm add express
+we now set up our back end, starting with creating the server.js 
+
+what is the port in the app.listen all about.  the port is what we are going to access in the url to be able to ask our server
+
+now we have to create our folders and routes and APIs for the backend before we start with the front end
+
+attp verbs
+-projects
+-Get
